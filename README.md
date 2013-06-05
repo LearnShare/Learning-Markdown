@@ -275,6 +275,10 @@ ___
 
 一个非常优秀的 Markdown 编辑器，提供了多文件编辑、实时预览、自定义样式、文件导出等功能，和 Linux 中的 ReTeX 较为类似，提供了全功能的免费版和具有扩展功能的高级付费版。（这篇文章就是在 MarkdownPad 中完成的，它刚刚更新了 2.0 版本，而且我也基本完成了新版的简体中文翻译工作，估计不久后，大家就可以用上中文版了。）
 
+Update：在 2013-03-11 日，MarkdownPad 2.1.4 的升级中包含了简体中文，参考 [MarkdownPad 2 now speaks Chinese and Portuguese!](http://markdownpad.com/news/2013/new-languages-zh-CH-and-pt-PT/ "News and Updates")。
+
+Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提交的 Bug——无法全文渲染。参考 [MarkdownPad 2.1.13 Released](http://markdownpad.com/news/2013/version-2.1.13/ "News and Updates")。
+
 ② [Texts][texts]
 
 一个所见即所得的 Markdown 编辑器，不过无法直接编辑 Markdown 文件，只能在 HTML 预览中进行编辑，功能稍差一些，不过可以免费试用。
@@ -283,11 +287,15 @@ ___
 
 一个 Win8 UI 风格的 Markdown 编辑器，提供实时预览和导出导入到博客的功能，但不提供导出到 HTML 文件的功能，不过它是完全免费的。
 
+④[MdCharm][mdcharm]
+
+类似于 MarkdownPad 的 Markdown 编辑器，使用 Qt 开发，支持 Windows 和 Linux 平台，可免费试用，比 MarkdownPad 更加轻巧，比 Retext 更加强大。
+
 ### 2.Linux：
 
 ① [ReText][retext]
 
-开源的 Markdown 编辑器，功能强大，包含简体中文，Linux 中最好用的 Markdown 编辑器。
+开源的 Markdown 编辑器，功能强大，包含简体中文，Linux 中最好用的 Markdown 编辑器。不过，编辑窗口和预览窗口好像没法同步滚动。
 
 ### 3.Mac：
 
@@ -320,6 +328,7 @@ ___
 [markdownpad]: http://markdownpad.com/ "MarkdownPad"
 [texts]: http://www.texts.io/ "Texts"
 [markpad]: http://code52.org/DownmarkerWPF/ "MarkPad"
+[mdcharm]: http://www.mdcharm.com/ "MdCharm"
 [retext]: http://sourceforge.net/p/retext/home/ReText/ "ReText"
 [mou]: http://mouapp.com/ "Mou"
 [textmate]: http://macromates.com/ "TextMate"
