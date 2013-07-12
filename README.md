@@ -1,7 +1,7 @@
 Learning-Markdown (Markdown 入门参考)
 ===================================
 
-编辑/整理：[LearnShare][learnshare]（学习，分享，进步）
+编辑/整理：[LearnShare][learnshare]（学习，分享，进步）Edit by BlancheLin
 - - -
 
 关于Markdown
