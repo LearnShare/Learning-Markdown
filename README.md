@@ -211,7 +211,7 @@ ___
 
 <123@email.com>
 
-该方式适合行内较短的链接，会使用 UR L作为链接文字。邮箱地址会自动编码，以逃避抓取机器人。
+该方式适合行内较短的链接，会使用 URL 作为链接文字。邮箱地址会自动编码，以逃避抓取机器人。
 
 八、图片
 --------
@@ -317,6 +317,8 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 
 ③ [MaHua][mahua]
 
+④ [cmd-editor][cmd-editor]
+
 ### 5.其它：
 
 还有许多其它的软件和平台都有相应的扩展或插件支持，如：
@@ -342,6 +344,7 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 [markdown-editor]: http://www.winterwell.com/software/markdown-editor.php "Markdown Editor plugin"
 [idea-markdown]: http://plugins.jetbrains.com/plugin/?id=5970 "idea-markdown"
 [wp-markdown]: http://wordpress.org/extend/plugins/wp-markdown/ "WP-Markdown"
+[cmd-editor]: https://www.zybuluo.com/mdeditor "cmd-editor"
 
 十二、参考资料
 --------------
