@@ -220,7 +220,7 @@ ___
 
 直接来看例子：
 
-![GitHub](https://help.github.com/assets/help/footer-logo-56d3698f3654d6403360623c353d37ea.png "GitHub,Social Coding")
+![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
 
 方括号中的部分是图片的替代文本，括号中的 title 部分和链接一样，是可选的。
 
@@ -230,13 +230,13 @@ ___
 
 ![GitHub][github]
 
-[github]: https://help.github.com/assets/help/footer-logo-56d3698f3654d6403360623c353d37ea.png "GitHub,Social Coding"
+[github]: https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding"
 
 ### 3.指定图片的显示大小
 
 目前，Markdown 还不支持指定图片的显示大小，不过可以通过直接插入`<img />`标签来指定相关属性：
 
-<img src="https://help.github.com/assets/help/footer-logo-56d3698f3654d6403360623c353d37ea.png" alt="GitHub" title="GitHub,Social Coding" width="50" height="22" />
+<img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
 
 九、强调
 --------
