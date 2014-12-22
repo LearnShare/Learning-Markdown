@@ -293,6 +293,10 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 
 类似于 MarkdownPad 的 Markdown 编辑器，使用 Qt 开发，支持 Windows 和 Linux 平台，可免费试用，比 MarkdownPad 更加轻巧，比 Retext 更加强大。
 
+⑤ [Markdown Edit][markdownedit]
+
+简单高效的 Markdown 编辑器，没有工具栏和菜单，没有多标签支持，但所有操作都可以通过快捷键完成。
+
 ### 2.Linux：
 
 ① [ReText][retext]
@@ -333,6 +337,7 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 [texts]: http://www.texts.io/ "Texts"
 [markpad]: http://code52.org/DownmarkerWPF/ "MarkPad"
 [mdcharm]: http://www.mdcharm.com/ "MdCharm"
+[markdownedit]: http://mike-ward.net/markdownedit/ "Markdown Edit"
 [retext]: http://sourceforge.net/p/retext/home/ReText/ "ReText"
 [mou]: http://mouapp.com/ "Mou"
 [textmate]: http://macromates.com/ "TextMate"
