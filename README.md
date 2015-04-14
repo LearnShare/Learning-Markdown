@@ -6,7 +6,7 @@ Learning-Markdown (Markdown 入门参考)
 
 **提醒：** 你可以打开 [这个链接](https://github.com/LearnShare/Learning-Markdown/edit/master/README.md) 在线编辑该文档，然后点击 `Preview changes` 查看编辑后的效果，这会帮助你快速练习 Markdown 的语法（请不要点击保存）。
 
-关于Markdown(#about-markdown)
+关于Markdown
 ---------------
 
 1.[Wiki: Markdown](http://zh.wikipedia.org/wiki/Markdown "Wiki: Markdown")
