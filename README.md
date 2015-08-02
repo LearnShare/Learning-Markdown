@@ -303,6 +303,10 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 
 开源的 Markdown 编辑器，功能强大，包含简体中文，Linux 中最好用的 Markdown 编辑器。不过，编辑窗口和预览窗口好像没法同步滚动。
 
+② [Haroopad][haroopad]
+
+韩国人开发的 Markdown 编辑器，基于 Qt, 对中文的支持非常好。
+
 ### 3.Mac：
 
 ① [Mou][mou]
@@ -341,6 +345,7 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 [mdcharm]: http://www.mdcharm.com/ "MdCharm"
 [markdownedit]: http://mike-ward.net/markdownedit/ "Markdown Edit"
 [retext]: http://sourceforge.net/p/retext/home/ReText/ "ReText"
+[haroopad]: http://pad.haroopress.com/ "Haroopad"
 [mou]: http://mouapp.com/ "Mou"
 [textmate]: http://macromates.com/ "TextMate"
 [dillinger]: http://dillinger.io/ "Dillinger"
