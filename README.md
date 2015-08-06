@@ -1,40 +1,35 @@
 Learning-Markdown (Markdown 入门参考)
-===================================
+====
 
-编辑/整理：[LearnShare][learnshare]（学习，分享，进步）Edit by BlancheLin
-- - -
+目录
+----
 
-**提醒：** 你可以打开 [这个链接](https://github.com/LearnShare/Learning-Markdown/edit/master/README.md) 在线编辑该文档，然后点击 `Preview changes` 查看编辑后的效果，这会帮助你快速练习 Markdown 的语法（请不要点击保存）。
-
-关于Markdown
----------------
-
-1.[Wiki: Markdown](http://zh.wikipedia.org/wiki/Markdown "Wiki: Markdown")
->Markdown 是一种轻量级标记语言，创始人为 John Gruber 和 Aaron Swartz。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML（或者 HTML）文档”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
-
-2.编写 Markdown 就如同编写纯文本一样简单、纯粹：
-
-+ 它方便修改和发布；
-+ 很容易转换为 HTML 代码；
-+ 有众多语言及应用的相关扩展；
-+ 在 GitHub 等环境中有很好的应用；
-+ 是编写文档、记录笔记、撰写文章的合适选择。
-
-3.Markdown 完全兼容 HTML 语法，可以直接在 Markdown 文档中插入 HTML 内容：
-
-<table>
-  <tr>
-		<td>1</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>4</td>
-	</tr>
-</table>
+1. 关于
+  1. Hello World
+  2. Hello.md
+2. 语法
+  1. 段落与换行
+  2. 标题
+  3. 引用
+  4. 列表
+  5. 代码
+  6. 分隔线
+  7. 超链接
+  8. 图片
+  9. 强调
+  10. 反斜线
+3. 扩展语法
+4. 编辑器与扩展
+5. 格式转换
+  1. HTML
+  2. Word
+  3. PDF
+6. Markdown 编程
+  1. JavaScript
+7. 参考资料
 
 一、段落与换行
---------------
+----
 
 1.段落的前后必须是空行：
 
