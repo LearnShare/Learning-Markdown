@@ -17,12 +17,12 @@
 ② 指向本地文件的链接：
 
 ```markdown
-[icon.png](./image/icon.png)
+[icon.png](./images/icon.png)
 ```
 
-[icon.png](./image/icon.png)
+[icon.png](./images/icon.png)
 
-③ 包含 title 的链接:
+③ 包含 'title' 的链接:
 
 ```markdown
 [Google](http://www.google.com/ "Google")
@@ -76,7 +76,7 @@
 自动链接
 ----
 
-使用 <\> 包括的 URL 或邮箱地址会被自动转换为超链接：
+使用 `<>` 包括的 URL 或邮箱地址会被自动转换为超链接：
 
 ```markdown
 <http://www.google.com/>

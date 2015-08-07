@@ -12,7 +12,7 @@
 
 ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
 
-方括号中的部分是图片的替代文本，括号中的 title 部分和链接一样，是可选的。
+方括号中的部分是图片的替代文本，括号中的 'title' 部分和链接一样，是可选的。
 
 参考式
 ----
