@@ -13,7 +13,7 @@ Hello
 I like [Google](https://www.google.com/)
 ```
 
->'\*.md' 和 '\*.markdown' 都是被普遍支持的扩展名，不过 '\*.md' 更加简单和方便。
+>'.md' 和 '.markdown' 都是被普遍支持的扩展名，不过 '.md' 更加简单和方便。
 
 它转换为 HTML 文档后，应该和 [Hello.md](hello.html) 差不多：
 

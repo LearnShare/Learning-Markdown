@@ -19,3 +19,6 @@
 - [sublime-markdown-extended](sublime-markdown-extended.md) <small>Sublime Text</small>
 - [Atom Markdown Preview](atom-markdown-preview.md) <small>Atom</small>
 - [IDEA Markdown](idea-markdown.md) <small>IDEA</small>
+- [Cmd Markdown](cmd-markdown.md) <small>Windows OSX Linux Web</small>
+- [StackEdit](stackedit.md) <small>Web</small>
+- [Dillinger](dillinger.md) <small>Web</small>

@@ -1,40 +1,6 @@
 Learning-Markdown (Markdown 入门参考)
 ====
 
-十一、编辑器
-------------
-③ [Markpad][markpad]
-
-一个 Win8 UI 风格的 Markdown 编辑器，提供实时预览和导出导入到博客的功能，但不提供导出到 HTML 文件的功能，不过它是完全免费的。
-
-④[MdCharm][mdcharm]
-
-类似于 MarkdownPad 的 Markdown 编辑器，使用 Qt 开发，支持 Windows 和 Linux 平台，可免费试用，比 MarkdownPad 更加轻巧，比 Retext 更加强大。
-
-⑤ [Markdown Edit][markdownedit]
-
-简单高效的 Markdown 编辑器，没有工具栏和菜单，没有多标签支持，但所有操作都可以通过快捷键完成。
-
-### 2.Linux：
-
-① [ReText][retext]
-
-开源的 Markdown 编辑器，功能强大，包含简体中文，Linux 中最好用的 Markdown 编辑器。不过，编辑窗口和预览窗口好像没法同步滚动。
-
-② [Haroopad][haroopad]
-
-韩国人开发的 Markdown 编辑器，基于 Qt, 对中文的支持非常好。
-
-### 3.Mac：
-
-① [Mou][mou]
-
-强大而优秀的 Markdown 编辑器。
-
-② [TextMate][textmate]
-
-### 4.基于 Web：
-
 ① [Dillinger][dillinger]
 
 强大的 Web Markdown 编辑器，功能不亚于 MarkdownPad 和 ReTeX，而且支持与 GitHub 和 Dropbox 相连接。
