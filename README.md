@@ -1,48 +1,6 @@
 Learning-Markdown (Markdown 入门参考)
 ====
 
-① [Dillinger][dillinger]
-
-强大的 Web Markdown 编辑器，功能不亚于 MarkdownPad 和 ReTeX，而且支持与 GitHub 和 Dropbox 相连接。
-
-② [Markable][markable]
-
-③ [MaHua][mahua]
-
-④ [cmd-editor][cmd-editor]
-
-⑤ [StackEdit][stackedit]
-
-### 5.其它：
-
-还有许多其它的软件和平台都有相应的扩展或插件支持，如：
-
-+ Submline Text: [MarkdownEditing][markdown-editing]
-+ gedit: [gedit-markdown][gedit-markdown]
-+ Eclipse: [Markdown Editor plugin][markdown-editor]
-+ IntelliJ IDEA: [idea-markdown][idea-markdown]
-+ Wordpress: [WP-Markdown][wp-markdown]
-
-[markdownpad]: http://markdownpad.com/ "MarkdownPad"
-[texts]: http://www.texts.io/ "Texts"
-[markpad]: http://code52.org/DownmarkerWPF/ "MarkPad"
-[mdcharm]: http://www.mdcharm.com/ "MdCharm"
-[markdownedit]: http://mike-ward.net/markdownedit/ "Markdown Edit"
-[retext]: http://sourceforge.net/p/retext/home/ReText/ "ReText"
-[haroopad]: http://pad.haroopress.com/ "Haroopad"
-[mou]: http://mouapp.com/ "Mou"
-[textmate]: http://macromates.com/ "TextMate"
-[dillinger]: http://dillinger.io/ "Dillinger"
-[markable]: http://markable.in/editor/ "Markable"
-[mahua]: http://mahua.jser.me/ "MaHua"
-[markdown-editing]: http://ttscoff.github.com/MarkdownEditing/ "MarkdownEditing"
-[gedit-markdown]: http://www.jpfleury.net/en/software/gedit-markdown.php "gedit-markdown"
-[markdown-editor]: http://www.winterwell.com/software/markdown-editor.php "Markdown Editor plugin"
-[idea-markdown]: http://plugins.jetbrains.com/plugin/?id=5970 "idea-markdown"
-[wp-markdown]: http://wordpress.org/extend/plugins/wp-markdown/ "WP-Markdown"
-[cmd-editor]: https://www.zybuluo.com/mdeditor "cmd-editor"
-[stackedit]: https://stackedit.io/ "StackEdit"
-
 十二、参考资料
 --------------
 
