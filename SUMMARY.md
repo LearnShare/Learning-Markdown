@@ -41,6 +41,3 @@
   - [HTML](article/convert/html.md)
   - [PDF](article/convert/pdf.md)
   - [Word](article/convert/word.md)
-* [Markdown 编程](article/)
-  - [JavaScript](article/)
-* [参考资料](article/)
