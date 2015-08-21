@@ -1,6 +1,8 @@
 Learning-Markdown (Markdown 入门参考)
 ====
 
+[在线阅读](http://xianbai.me/learn-md/)
+
 文档目录
 ----
 
