@@ -17,7 +17,7 @@ Pandoc
 pandoc -o hello.pdf hello.md
 ```
 
-当然，也可以通过 `-o style.css` 来指定样式文件。
+当然，也可以通过 `-c style.css` 来指定样式文件。
 
 Chrome
 ----

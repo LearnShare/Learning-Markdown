@@ -3,7 +3,7 @@ Markdown Pro
 
 主页: [Markdown Pro](http://www.markdownpro.com/)  
 平台: OSX  
-费用: $9.99)  
+费用: $9.99  
 
 介绍
 ----

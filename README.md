@@ -1,6 +1,8 @@
 Learning-Markdown (Markdown 入门参考)
 ====
 
+[Code on Github](https://github.com/LearnShare/Learning-Markdown/tree/v2)
+
 [在线阅读](http://xianbai.me/learn-md/)
 
 文档目录
