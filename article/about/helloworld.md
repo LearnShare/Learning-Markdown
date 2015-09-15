@@ -19,4 +19,4 @@ I like [Google](https://www.google.com/)
 
 ![Hello.md](images/hello.png 'Hello.md')
 
->要了解将 Markdown 转换为 HTML 或其他格式，可以参考 [格式转换](#) 。
+>要了解将 Markdown 转换为 HTML 或其他格式，可以参考 [格式转换](../convert/readme.md) 。
